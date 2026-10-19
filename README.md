@@ -15,3 +15,8 @@ Step 3:
 
 Step 4: 
 - Manually label my own personal imagery from Celestron Nexstar 4SE, and test using either a personally trained model or pre-trained model.
+
+
+Literature: 
+https://www.nature.com/articles/s44453-026-00036-x#data-availability 
+https://towardsdatascience.com/the-math-behind-convolutional-neural-networks-6aed775df076/
