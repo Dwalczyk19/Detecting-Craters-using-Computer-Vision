@@ -29,6 +29,9 @@ Step 4:
 
 
 Literature: 
+
 https://www.nature.com/articles/s44453-026-00036-x#data-availability 
 
 https://towardsdatascience.com/the-math-behind-convolutional-neural-networks-6aed775df076/
+
+https://arxiv.org/pdf/1611.01186
